@@ -10,8 +10,8 @@
 
 //  *** WIFI ***  //
 
-const char *ssid = "TTNET_ZyXEL_3AMF";
-const char *password = "Trabzon28";
+const char *ssid = "ID";
+const char *password = "PASSWORD";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
